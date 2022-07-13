@@ -12,6 +12,11 @@ body {
 
     font-family: "Space Grotesk", sans-serif;}
 
+@media (min-width: 1240px) {}
+    .class b{
+    max-width: 1290px !important;
+    margin: auto !important;
+    height: 100%;}
 
  
  .class b {
