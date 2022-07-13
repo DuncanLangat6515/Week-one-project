@@ -9,7 +9,7 @@ Vallie's Estate
 + [Authors-Info](#Authors-Info)
 
 ## Description 
-<p>This project entails the real estate called Vallie's Estate and its layout in website</p>
+<p>This project entails the real estate called Vallie's Estate and its layout on a website</p>
 
 ## Licence
 MIT License
