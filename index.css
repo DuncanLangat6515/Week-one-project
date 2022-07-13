@@ -23,7 +23,7 @@ body {
         max-width: 1290px;
         margin: auto ;
         height: 100%;
-        background-color: #fafafa;
+        background-color: whitesmoke;
         display: flex;}
 
 
@@ -69,7 +69,9 @@ color: white;
 font-size: large;
 cursor: pointer;
 box-shadow: #0f298b;
-background-color: blue;}
+background-color: blue;
+}
+
 .button:hover{
 box-shadow: rgba(136, 165, 191, 0.42) 6px 15px 16px 0px,
 rgba(255, 255, 255, 0.9) -6px -15px 3px 0px;
@@ -94,6 +96,7 @@ font-variation-settings: "FILL" 500, "wght" 400, "GRAD" 0, "opsz" 48;
     background-color: #0f298b;
     color: #fff;
     border-radius: 50px;
+    font-weight: 300;
 }
 .welcome-section {
     display: flex;
@@ -195,6 +198,7 @@ span {
 
 .product-section .products-options {
     text-align: center;
+    border: solid;
 }
 .card-tag {
     display: flex;
