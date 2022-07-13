@@ -54,24 +54,26 @@ font-weight: 700;
 font-family:"Oleo Script", cursive;    
 }
 
-/*
-}
-.logo > h1 {
-    font-family: "Oleo Script", cursive;}
 .button{
 padding: 13px;
 border-radius: 5px;
 border: none;
-color:blue;
+color: white;
 font-size: large;
 cursor: pointer;
-box-shadow: #0f298b;}
+box-shadow: #0f298b;
+background-color: blue;}
+.button:hover{
+box-shadow: rgba(136, 165, 191, 0.42) 6px 15px 16px 0px,
+rgba(255, 255, 255, 0.9) -6px -15px 3px 0px;
+}
 
 .body-2{padding-top: 100px;
     width: 80%;
     margin: auto;}
+    
     * Styling Welcome section */
-/* .body-section {
+.body-section {
     padding-top: 100px;
     width: 80%;
     margin: auto;
@@ -94,9 +96,11 @@ box-shadow: #0f298b;}
     width: 500px;
 }
 .welcome-img > img {
-    width: inherit;
-    height: inherit;
+width: inherit;
+height: inherit;
 }
+
+}/*
 .description-title > h1 {
     color: #0f298b;
     font-size: 50px;
