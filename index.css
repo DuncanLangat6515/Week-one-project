@@ -43,13 +43,18 @@ font-family: "Space Grotesk", sans-serif;
     font-size: 17px;
     padding: 20px;
 }
-/*
-.nav-links > ul > li {
-    list-style: none;
+.nav-links >ul>li{
+ list-style: none;   
 }
-.nav-links > ul > li > a:hover {
-    color: #0f298b;
-    font-weight: 600;
+.nav-links >ul>li>a:hover{
+color:#0f298b;
+font-weight: 700;
+}
+.logo >h1{
+font-family:"Oleo Script", cursive;    
+}
+
+/*
 }
 .logo > h1 {
     font-family: "Oleo Script", cursive;}
@@ -377,8 +382,4 @@ styling Product Section
 /* .review-message {
     font-size: 20px;}
 
-footer{background-color: #0f298b;} */ */
-    
-    
-
-  */ */ */
+footer{background-color: #0f298b;} */
